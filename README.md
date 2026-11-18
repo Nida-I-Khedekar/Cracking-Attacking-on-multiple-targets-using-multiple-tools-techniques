@@ -1,15 +1,15 @@
-<div align="center">
-
 # 🛡️ PASSWORD SECURITY & AI-ASSISTED PASSWORD CRACKING
 
 ### PASSWORD SECURITY • HASH ANALYSIS • JOHN THE RIPPER • HEXSTRIKE-AI • MCP
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-NETWORKWALKS-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/WEEK%203-B084-6F42C1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AUTHORIZED-YES-22C55E?style=for-the-badge" />
+**Waqas Karim | Networkwalks**
 
-<br>
+<div align="center">
+
+![CYBERSECURITY](https://img.shields.io/badge/CYBERSECURITY-NETWORKWALKS-0A66C2?style=for-the-badge\&logo=hackthebox\&logoColor=white)
+![WEEK 3](https://img.shields.io/badge/WEEK%203-B084-6F42C1?style=for-the-badge)
+![STATUS](https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=for-the-badge)
+![AUTHORIZED](https://img.shields.io/badge/AUTHORIZED-YES-22C55E?style=for-the-badge)
 
 **W3-PS-AI | CYBERSECURITY | NETWORKWALKS**
 
@@ -19,30 +19,29 @@
 
 **Assessment Completed: November 2026**
 
----
-
 </div>
+
+---
 
 # 🛡️ 1. Engagement Overview
 
-| **Category**             | **Details**                                            |
-| ------------------------ | ------------------------------------------------------ |
-| 👤 **Student / Analyst** | Nida Ibrahim Khedekar                                  |
-| 🎓 **Program / Batch**   | Networkwalks Cybersecurity Internship – B084           |
-| 📅 **Assessment**        | November 2026                                          |
-| 🧪 **Week**              | Week 03                                                |
-| 🔐 **Primary Focus**     | Password Security & AI-Assisted Password Cracking      |
-| ⚔️ **Module 01**         | Password Cracking with John the Ripper & Johnny        |
-| 🌐 **Module 02**         | Password Cracking with Networkwalks Tools              |
-| 🤖 **Module 03**         | HexStrike-AI MCP Server Setup with Claude Desktop      |
-| 🧠 **Module 04**         | AI-Assisted Password Cracking using JTR + HexStrike-AI |
-| 🖥️ **Platforms**        | Windows & Kali Linux                                   |
-| 🔎 **Hash Format**       | PDF Hash (`$pdf$...`)                                  |
-| 📚 **Wordlist**          | RockYou (`rockyou.txt`)                                |
-| 🔗 **AI Integration**    | Model Context Protocol (MCP)                           |
-| 📸 **Evidence**          | Practical Screenshots                                  |
-| 🔐 **Authorization**     | Controlled Educational Laboratory                      |
-| 📊 **Assessment Status** | Completed                                              |
+| **Category**             | **Details**                                                  |
+| ------------------------ | ------------------------------------------------------------ |
+| 👤 **Student / Analyst** | Nida Ibrahim Khedekar                                        |
+| 🎓 **Program / Batch**   | Networkwalks Cybersecurity Internship – B084                 |
+| 📅 **Assessment**        | November 2026                                                |
+| 🧪 **Week**              | Week 03                                                      |
+| 🔐 **Primary Focus**     | Password Security & AI-Assisted Password Cracking            |
+| ⚔️ **Module 01**         | Password Cracking with John the Ripper & Johnny              |
+| 🌐 **Module 02**         | Password Cracking with Networkwalks Tools                    |
+| 🤖 **Module 03**         | HexStrike-AI MCP Integration & AI-Assisted Password Cracking |
+| 🖥️ **Platforms**        | Windows & Kali Linux                                         |
+| 🔎 **Hash Format**       | PDF Hash (`$pdf$...`)                                        |
+| 📚 **Wordlist**          | RockYou (`rockyou.txt`)                                      |
+| 🔗 **AI Integration**    | Model Context Protocol (MCP)                                 |
+| 📸 **Evidence**          | Practical Screenshots                                        |
+| 🔐 **Authorization**     | Controlled Educational Laboratory                            |
+| 📊 **Assessment Status** | Completed                                                    |
 
 ---
 
@@ -81,7 +80,7 @@ The week's activities focused on password security, PDF hash extraction, passwor
 
 Unlike a conventional password-cracking exercise, this week's practical also introduced an AI-assisted approach using **HexStrike-AI MCP Server integrated with Claude Desktop**.
 
-The assessment consisted of four practical modules.
+The assessment consisted of three practical modules.
 
 ### Practical Modules
 
@@ -105,7 +104,7 @@ Password Recovery
 PDF Verification
 
 MODULE 03
-HexStrike-AI MCP Server
+HexStrike-AI MCP Server Setup
         ↓
 Claude Desktop Installation
         ↓
@@ -115,14 +114,7 @@ Dependencies Installation
         ↓
 MCP Configuration
         ↓
-Server Integration
-
-MODULE 04
-AI-Assisted Password Cracking
-        ↓
-Claude Desktop
-        ↓
-HexStrike-AI MCP
+AI-Assisted Integration
         ↓
 John the Ripper
         ↓
@@ -168,7 +160,7 @@ The primary objectives of the Week 3 practical were to:
 | **Tool / Technology**         | **Purpose**                                                               |
 | ----------------------------- | ------------------------------------------------------------------------- |
 | Windows                       | Primary environment for Modules 01 and 02                                 |
-| Kali Linux                    | Environment for Modules 03 and 04                                         |
+| Kali Linux                    | Environment for Module 03                                                 |
 | John the Ripper               | Password-security testing                                                 |
 | Johnny GUI                    | Graphical interface for John the Ripper                                   |
 | Claude Desktop                | AI desktop application                                                    |
@@ -229,7 +221,9 @@ flowchart TD
     style M fill:#22C55E,color:#fff
     style N fill:#404040,color:#fff
 ```
+
 ---
+
 # 🛡️ 7. Module 01 – Password Cracking with John the Ripper & Johnny
 
 ## 7.1 Module Overview
@@ -353,9 +347,8 @@ The recovered password was entered into the protected PDF.
 The PDF opened successfully, confirming the password-recovery result.
 
 ---
-‎‎---
 
-# 🛡️ 7. Module 01 Evidence
+# 🛡️ 8. Module 01 Evidence
 
 > Evidence screenshots are organized under:
 >
@@ -374,8 +367,6 @@ The PDF opened successfully, confirming the password-recovery result.
 <img width="1363" alt="PDF Hash Extraction 2" src="https://github.com/user-attachments/assets/d55cce81-17da-4e78-bc38-79df96dc45d2" />
 
 <img width="1365" alt="PDF Hash Extraction 3" src="https://github.com/user-attachments/assets/4d341891-9a24-4284-894d-3c5059ff30cd" />
-
-
 
 ---
 
@@ -399,9 +390,9 @@ The PDF opened successfully, confirming the password-recovery result.
 
 ---
 
-# 🛡️ 8. Module 02 – Password Cracking with Networkwalks Tools
+# 🛡️ 9. Module 02 – Password Cracking with Networkwalks Tools
 
-## 8.1 Module Overview
+## 9.1 Module Overview
 
 The second module introduced browser-based password-security tools developed by Networkwalks.
 
@@ -412,7 +403,7 @@ Unlike the first module, which used a locally installed password-recovery applic
 
 The practical demonstrated a browser-based workflow for extracting a PDF hash and performing password recovery.
 
-## 8.2 Module Environment
+## 9.2 Module Environment
 
 | **Component** | **Details**                   |
 | ------------- | ----------------------------- |
@@ -424,7 +415,7 @@ The practical demonstrated a browser-based workflow for extracting a PDF hash an
 | Hash Format   | `$pdf$...`                    |
 | Verification  | Protected PDF                 |
 
-## 8.3 Module 02 Workflow
+## 9.3 Module 02 Workflow
 
 ```mermaid
 flowchart LR
@@ -449,13 +440,13 @@ flowchart LR
     style I fill:#404040,color:#fff
 ```
 
-## 8.4 Practical Procedure
+## 9.4 Practical Procedure
 
-### 🔹 8.4.1 Obtain the Protected PDF
+### 🔹 9.4.1 Obtain the Protected PDF
 
 The encrypted PDF supplied with the Networkwalks practical was downloaded.
 
-### 🔹 8.4.2 Open Networkwalks Hash Calculator
+### 🔹 9.4.2 Open Networkwalks Hash Calculator
 
 The Hash Calculator was accessed through the web browser.
 
@@ -463,19 +454,19 @@ Tool:
 
 https://networkwalks.com/hash-calculator/
 
-### 🔹 8.4.3 Upload the PDF
+### 🔹 9.4.3 Upload the PDF
 
 The protected PDF was uploaded to the Hash Calculator.
 
 The tool processed the document and generated the corresponding PDF hash.
 
-### 🔹 8.4.4 Copy the Complete Hash
+### 🔹 9.4.4 Copy the Complete Hash
 
 The complete hash value beginning with `$pdf$` was copied.
 
 Ensuring that the entire hash was preserved was important for the next stage.
 
-### 🔹 8.4.5 Open Networkwalks Password Cracker
+### 🔹 9.4.5 Open Networkwalks Password Cracker
 
 The Password Cracker was opened in the browser.
 
@@ -483,13 +474,13 @@ Tool:
 
 https://networkwalks.com/password-cracker/
 
-### 🔹 8.4.6 Submit the Hash
+### 🔹 9.4.6 Submit the Hash
 
 The extracted PDF hash was pasted into the Password Cracker.
 
 The password-recovery process was initiated.
 
-### 🔹 8.4.7 Verify the Result
+### 🔹 9.4.7 Verify the Result
 
 After the recovery process completed, the recovered password was entered into the protected PDF.
 
@@ -497,7 +488,7 @@ The document opened successfully, confirming the result.
 
 ---
 
-# 🛡️ 9. Module 02 Evidence
+# 🛡️ 10. Module 02 Evidence
 
 > Evidence screenshots are organized under:
 >
@@ -521,11 +512,11 @@ The document opened successfully, confirming the result.
 
 <img width="1365" height="728" alt="Screenshot 2026-11-16 180515" src="https://github.com/user-attachments/assets/153f467b-7d66-4fd5-91db-38791de7d5d7" />
 
-‎
 ---
-# 🛡️ 9. Module 03 – HexStrike-AI MCP Integration & AI-Assisted Password Cracking with Claude Desktop
 
-## 9.1 Module Overview
+# 🛡️ 11. Module 03 – HexStrike-AI MCP Integration & AI-Assisted Password Cracking with Claude Desktop
+
+## 11.1 Module Overview
 
 The third practical module extended the previous password-security exercises by introducing an **AI-assisted cybersecurity environment using HexStrike-AI MCP Server, Claude Desktop, and John the Ripper on Kali Linux**.
 
@@ -554,9 +545,7 @@ This exercise demonstrated how AI applications can interact with external cybers
 
 Unlike the previous modules, this practical introduced an additional layer of AI-assisted tool interaction, combining traditional password-auditing capabilities with an AI-powered interface.
 
----
-
-## 9.2 Module Environment
+## 11.2 Module Environment
 
 | **Component**            | **Details**                    |
 | ------------------------ | ------------------------------ |
@@ -581,7 +570,7 @@ Unlike the previous modules, this practical introduced an additional layer of AI
 | Interaction Method       | Natural-Language Prompts       |
 | Assessment Status        | Completed                      |
 
-## 9.3 Module Architecture
+## 11.3 Module Architecture
 
 The following architecture represents the complete workflow, from installing the required applications to recovering and verifying the protected PDF password.
 
@@ -636,11 +625,9 @@ flowchart TD
     style R fill:#404040,color:#fff
 ```
 
----
+## 11.4 Practical Procedure
 
-## 9.4 Practical Procedure
-
-### 🔹 9.4.1 Install Claude Desktop on Kali Linux
+### 🔹 11.4.1 Install Claude Desktop on Kali Linux
 
 Claude Desktop was installed on Kali Linux using the Debian package repository provided by the Claude Desktop Debian project.
 
@@ -666,13 +653,13 @@ sudo apt update
 sudo apt install claude-desktop
 ```
 
-### 🔹 9.4.2 Launch Claude Desktop
+### 🔹 11.4.2 Launch Claude Desktop
 
 After installation, Claude Desktop was opened on Kali Linux.
 
 The sign-in process was completed to access the application and prepare it for MCP integration.
 
-### 🔹 9.4.3 Clone the HexStrike-AI Repository
+### 🔹 11.4.3 Clone the HexStrike-AI Repository
 
 The HexStrike-AI repository was obtained from GitHub.
 
@@ -688,7 +675,7 @@ git clone https://github.com/0x4m4/hexstrike-ai.git
 cd hexstrike-ai
 ```
 
-### 🔹 9.4.4 Create a Python Virtual Environment
+### 🔹 11.4.4 Create a Python Virtual Environment
 
 A dedicated Python virtual environment was created to isolate the dependencies required by HexStrike-AI.
 
@@ -704,7 +691,7 @@ source hexstrike-env/bin/activate
 
 Using a virtual environment helps maintain dependency isolation and reduces conflicts with system-managed Python packages.
 
-### 🔹 9.4.5 Install Required Dependencies
+### 🔹 11.4.5 Install Required Dependencies
 
 After activating the virtual environment, the required Python dependencies were installed from the repository's requirements file.
 
@@ -714,7 +701,7 @@ pip3 install -r requirements.txt
 
 This prepared the Python environment for the HexStrike-AI server and MCP integration.
 
-### 🔹 9.4.6 Start the HexStrike-AI Server
+### 🔹 11.4.6 Start the HexStrike-AI Server
 
 After dependency installation, the repository directory was accessed and the virtual environment activated.
 
@@ -736,7 +723,7 @@ http://localhost:8888
 
 This local server provided the communication endpoint required by the MCP integration.
 
-### 🔹 9.4.7 Configure MCP Integration in Claude Desktop
+### 🔹 11.4.7 Configure MCP Integration in Claude Desktop
 
 The MCP server configuration was added to Claude Desktop.
 
@@ -766,7 +753,7 @@ The configuration specified:
 
 This connected Claude Desktop with the HexStrike-AI MCP environment.
 
-### 🔹 9.4.8 Verify John the Ripper Availability
+### 🔹 11.4.8 Verify John the Ripper Availability
 
 After configuring the integration, Claude Desktop was used to interact with the HexStrike-AI environment.
 
@@ -779,7 +766,7 @@ HexStrike MCP and show me its version.
 
 The objective was to check John the Ripper availability through the integrated environment.
 
-### 🔹 9.4.9 Obtain the Protected PDF and Extract Its Hash
+### 🔹 11.4.9 Obtain the Protected PDF and Extract Its Hash
 
 The target PDF supplied with the Networkwalks practical was copied to the Kali Linux desktop.
 
@@ -805,7 +792,7 @@ Please calculate the hash value of this PDF file:
 
 The purpose was to obtain the PDF password hash required for the subsequent password-auditing exercise.
 
-### 🔹 9.4.10 Initiate AI-Assisted Password Recovery
+### 🔹 11.4.10 Initiate AI-Assisted Password Recovery
 
 After obtaining the PDF hash, another natural-language prompt was submitted through Claude Desktop.
 
@@ -822,7 +809,7 @@ Claude Desktop interacted with the HexStrike-AI MCP integration to initiate the 
 
 This demonstrated how natural-language instructions can be used to interact with supported cybersecurity tools through an MCP-enabled environment.
 
-### 🔹 9.4.11 Use the RockYou Wordlist
+### 🔹 11.4.11 Use the RockYou Wordlist
 
 The RockYou wordlist was selected as the dictionary for the password-recovery exercise.
 
@@ -838,7 +825,7 @@ Depending on the Kali Linux installation, the wordlist may initially be compress
 
 The dictionary was used as the candidate-password source during the laboratory exercise.
 
-### 🔹 9.4.12 Password Recovery and Verification
+### 🔹 11.4.12 Password Recovery and Verification
 
 John the Ripper performed dictionary-based password testing against the extracted PDF hash.
 
@@ -850,9 +837,7 @@ The recovered password was then entered into the protected PDF.
 
 Successful access to the document confirmed the result of the password-recovery exercise.
 
----
-
-## 9.5 AI Prompts Used
+## 11.5 AI Prompts Used
 
 Natural-language prompts were used through Claude Desktop to interact with the HexStrike-AI MCP integration.
 
@@ -865,9 +850,7 @@ Natural-language prompts were used through Claude Desktop to interact with the H
 
 The exercise demonstrated how an AI-assisted interface can simplify interaction with traditional cybersecurity tools.
 
----
-
-## 9.6 Technical Workflow Summary
+## 11.6 Technical Workflow Summary
 
 The complete practical followed this sequence:
 
@@ -914,9 +897,7 @@ PDF PASSWORD VERIFICATION
 EVIDENCE DOCUMENTATION
 ```
 
----
-
-## 9.7 Module 03 Evidence
+## 11.7 Module 03 Evidence
 
 > Evidence screenshots are organized under:
 >
@@ -964,17 +945,17 @@ EVIDENCE DOCUMENTATION
 
 # 🛡️ 12. Module Comparison
 
-| **Category**    | **Module 01**      | **Module 02**          | **Module 03**  | **Module 04**        |
-| --------------- | ------------------ | ---------------------- | -------------- | -------------------- |
-| Primary Focus   | JTR & Johnny       | Browser-Based Recovery | MCP Setup      | AI-Assisted Recovery |
-| Platform        | Windows            | Windows                | Kali Linux     | Kali Linux           |
-| Main Tool       | John the Ripper    | Networkwalks Tools     | HexStrike-AI   | John the Ripper      |
-| Interface       | Johnny GUI         | Web Browser            | Claude Desktop | Claude Desktop       |
-| Hash Extraction | PDF Hash Extractor | Hash Calculator        | PDF Processing | HexStrike-AI         |
-| Wordlist        | Not specified      | Tool-managed           | Not applicable | RockYou              |
-| AI Integration  | No                 | No                     | Yes            | Yes                  |
-| MCP             | No                 | No                     | Yes            | Yes                  |
-| Result          | Completed          | Completed              | Configured     | Completed            |
+| **Category**    | **Module 01**      | **Module 02**          | **Module 03**                       |
+| --------------- | ------------------ | ---------------------- | ----------------------------------- |
+| Primary Focus   | JTR & Johnny       | Browser-Based Recovery | HexStrike-AI & AI-Assisted Recovery |
+| Platform        | Windows            | Windows                | Kali Linux                          |
+| Main Tool       | John the Ripper    | Networkwalks Tools     | HexStrike-AI                        |
+| Interface       | Johnny GUI         | Web Browser            | Claude Desktop                      |
+| Hash Extraction | PDF Hash Extractor | Hash Calculator        | AI-Assisted PDF Processing          |
+| Wordlist        | Not specified      | Tool-managed           | RockYou                             |
+| AI Integration  | No                 | No                     | Yes                                 |
+| MCP             | No                 | No                     | Yes                                 |
+| Result          | Completed          | Completed              | Completed                           |
 
 ## Results Summary
 
@@ -1107,14 +1088,14 @@ This demonstrated how AI can simplify interaction with security tools while stil
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/PASSWORD%20SECURITY-C00000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HASH%20ANALYSIS-238F89?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JOHN%20THE%20RIPPER-0070C0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JOHNNY-E87500?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HEXSTRIKE--AI-6F42C1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-INTEGRATION-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20AUTOMATION-22C55E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KALI%20LINUX-404040?style=for-the-badge" />
+![PASSWORD SECURITY](https://img.shields.io/badge/PASSWORD%20SECURITY-C00000?style=for-the-badge)
+![HASH ANALYSIS](https://img.shields.io/badge/HASH%20ANALYSIS-238F89?style=for-the-badge)
+![JOHN THE RIPPER](https://img.shields.io/badge/JOHN%20THE%20RIPPER-0070C0?style=for-the-badge)
+![JOHNNY](https://img.shields.io/badge/JOHNNY-E87500?style=for-the-badge)
+![HEXSTRIKE-AI](https://img.shields.io/badge/HEXSTRIKE--AI-6F42C1?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP%20INTEGRATION-0A66C2?style=for-the-badge)
+![AI AUTOMATION](https://img.shields.io/badge/AI%20AUTOMATION-22C55E?style=for-the-badge)
+![KALI LINUX](https://img.shields.io/badge/KALI%20LINUX-404040?style=for-the-badge)
 
 </p>
 
@@ -1151,8 +1132,6 @@ The `$pdf$` prefix identifies the PDF hash format used in this exercise.
 
 Incomplete or incorrectly formatted hashes can cause password-recovery workflows to fail.
 
----
-
 ## Observation 02 – Password Complexity
 
 Password-recovery duration depends on:
@@ -1165,8 +1144,6 @@ Password-recovery duration depends on:
 * Attack configuration.
 
 Predictable passwords may be easier to recover using dictionary-based techniques.
-
----
 
 ## Observation 03 – Virtual Environment Management
 
@@ -1182,23 +1159,17 @@ python3 -m venv hexstrike-env
 source hexstrike-env/bin/activate
 ```
 
----
-
 ## Observation 04 – MCP Configuration
 
 The MCP configuration requires the correct executable path, server script path, and local server address.
 
 Incorrect paths or unavailable server processes can prevent successful communication between Claude Desktop and HexStrike-AI.
 
----
-
 ## Observation 05 – AI-Assisted Tool Interaction
 
 The HexStrike-AI exercise demonstrated that natural-language prompts can be used to interact with supported cybersecurity tools through an MCP integration.
 
 However, AI-assisted execution still depends on correct tool configuration, permissions, dependencies, and execution environments.
-
----
 
 ## Observation 06 – Wordlist Selection
 
@@ -1207,8 +1178,6 @@ The RockYou wordlist was used for dictionary-based password testing.
 The practical demonstrated that wordlist selection is an important part of password-security testing.
 
 A password that is absent from a particular wordlist may not be recovered through that dictionary-based attempt.
-
----
 
 ## Observation 07 – Evidence Collection
 
@@ -1320,19 +1289,26 @@ Maintain clear evidence of procedures, observations, and outcomes.
 ### Overall Practical Progress
 
 ```text
-PASSWORD SECURITY          ████████████████████ 100% COMPLETED ✅
+PASSWORD SECURITY
+████████████████████ 100% COMPLETED ✅
 
-JTR / JOHNNY                ████████████████████ 100% COMPLETED ✅
+JTR / JOHNNY
+████████████████████ 100% COMPLETED ✅
 
-NETWORKWALKS TOOLS           ████████████████████ 100% COMPLETED ✅
+NETWORKWALKS TOOLS
+████████████████████ 100% COMPLETED ✅
 
-HEXSTRIKE-AI SETUP           ████████████████████ 100% COMPLETED ✅
+HEXSTRIKE-AI SETUP
+████████████████████ 100% COMPLETED ✅
 
-CLAUDE DESKTOP + MCP         ████████████████████ 100% COMPLETED ✅
+CLAUDE DESKTOP + MCP
+████████████████████ 100% COMPLETED ✅
 
-AI-ASSISTED PASSWORD CRACKING ████████████████████ 100% COMPLETED ✅
+AI-ASSISTED PASSWORD CRACKING
+████████████████████ 100% COMPLETED ✅
 
-EVIDENCE & DOCUMENTATION     ████████████████████ 100% COMPLETED ✅
+EVIDENCE & DOCUMENTATION
+████████████████████ 100% COMPLETED ✅
 ```
 
 ---
@@ -1401,7 +1377,7 @@ The third module extended the practical into AI-assisted cybersecurity by settin
 
 This involved repository cloning, Python virtual environment creation, dependency installation, server execution, and MCP configuration.
 
-The fourth module brought these components together by using **Claude Desktop, HexStrike-AI MCP, John the Ripper, and the RockYou wordlist** to perform an AI-assisted password-recovery exercise.
+The same module brought these components together by using **Claude Desktop, HexStrike-AI MCP, John the Ripper, and the RockYou wordlist** to perform an AI-assisted password-recovery exercise.
 
 The overall practical progression was:
 
@@ -1437,26 +1413,25 @@ This project represents another step in my cybersecurity learning journey and co
 
 # 🛡️ 21. Project Information
 
-| **Project Detail**       | **Information**                                   |
-| ------------------------ | ------------------------------------------------- |
-| 👤 **Author**            | Nida Ibrahim Khedekar                             |
-| 🏢 **Organization**      | Networkwalks Academy                              |
-| 🎓 **Program**           | Cybersecurity & Ethical Hacking Internship        |
-| 📅 **Week**              | Week 03                                           |
-| 🎓 **Batch**             | B084                                              |
-| 📆 **Assessment**        | November 2026                                     |
-| 🔐 **Project Type**      | Authorized Cybersecurity Laboratory               |
-| 🛡️ **Primary Focus**    | Password Security & AI-Assisted Password Cracking |
-| ⚔️ **Module 01**         | John the Ripper & Johnny                          |
-| 🌐 **Module 02**         | Networkwalks Hash Calculator & Password Cracker   |
-| 🤖 **Module 03**         | HexStrike-AI MCP Server Setup                     |
-| 🧠 **Module 04**         | AI-Assisted Password Cracking                     |
-| 💻 **Platforms**         | Windows & Kali Linux                              |
-| 🔗 **AI Application**    | Claude Desktop                                    |
-| 🧰 **MCP Integration**   | HexStrike-AI                                      |
-| 📚 **Wordlist**          | RockYou                                           |
-| 📸 **Evidence**          | Practical Screenshots                             |
-| 📊 **Assessment Status** | Completed                                         |
+| **Project Detail**       | **Information**                                              |
+| ------------------------ | ------------------------------------------------------------ |
+| 👤 **Author**            | Nida Ibrahim Khedekar                                        |
+| 🏢 **Organization**      | Networkwalks Academy                                         |
+| 🎓 **Program**           | Cybersecurity & Ethical Hacking Internship                   |
+| 📅 **Week**              | Week 03                                                      |
+| 🎓 **Batch**             | B084                                                         |
+| 📆 **Assessment**        | November 2026                                                |
+| 🔐 **Project Type**      | Authorized Cybersecurity Laboratory                          |
+| 🛡️ **Primary Focus**    | Password Security & AI-Assisted Password Cracking            |
+| ⚔️ **Module 01**         | John the Ripper & Johnny                                     |
+| 🌐 **Module 02**         | Networkwalks Hash Calculator & Password Cracker              |
+| 🤖 **Module 03**         | HexStrike-AI MCP Integration & AI-Assisted Password Cracking |
+| 💻 **Platforms**         | Windows & Kali Linux                                         |
+| 🔗 **AI Application**    | Claude Desktop                                               |
+| 🧰 **MCP Integration**   | HexStrike-AI                                                 |
+| 📚 **Wordlist**          | RockYou                                                      |
+| 📸 **Evidence**          | Practical Screenshots                                        |
+| 📊 **Assessment Status** | Completed                                                    |
 
 ---
 
@@ -1468,15 +1443,9 @@ This project represents another step in my cybersecurity learning journey and co
 
 **Cybersecurity Intern | Networkwalks Academy | Batch B084**
 
-<br>
-
 🛡️ **Cybersecurity & Ethical Hacking**
 
-<br>
-
 **Week 03 – Password Security & AI-Assisted Password Cracking**
-
-<br>
 
 **Learn • Practice • Analyze • Automate • Secure**
 
@@ -1524,11 +1493,7 @@ Evidence Collection & Documentation
 
 **Learn → Practice → Analyze → Automate → Document → Secure**
 
-<br>
-
 *W3-PS-AI | Networkwalks Academy | Batch B084 | November 2026*
-
-<br>
 
 **Nida Ibrahim Khedekar**
 
