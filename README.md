@@ -507,7 +507,11 @@ The document opened successfully, confirming the result.
 
 ### 🌐 Networkwalks Hash Calculator
 
-<img width="1365" alt="NetworkWalks Hash Calculator" src="https://github.com/user-attachments/assets/7c34d253-8e7a-46d5-ba94-d6e48012abc9" />
+<img width="1365" height="722" alt="Screenshot 2026-11-16 180933" src="https://github.com/user-attachments/assets/ae164b67-c58a-4d46-8bbb-af5a25bad853" /><br>
+
+<img width="1365" height="720" alt="Screenshot 2026-11-16 181026" src="https://github.com/user-attachments/assets/25c12843-793a-41c6-94ef-7778d10fdd67" /><br>
+
+<img width="1365" height="723" alt="Screenshot 2026-11-16 180909" src="https://github.com/user-attachments/assets/94b6400a-101a-4776-907a-96ced0fb3842" />
 
 ---
 
@@ -521,12 +525,6 @@ The document opened successfully, confirming the result.
 
 <img width="1364" alt="NetworkWalks Password Cracker - Recovery Result" src="https://github.com/user-attachments/assets/a6273bec-3823-4e4f-ad40-510983c781e5" />
 
----
-
-‎### ⚔️ Password Cracker
-‎
-‎<img width="1364" height="716" alt="PASSCRACKED NETWORKWALKS" src="https://github.com/user-attachments/assets/a6273bec-3823-4e4f-ad40-510983c781e5" />
-‎
 ‎---
 
 # 🛡️ 9. Module 03 – HexStrike-AI MCP Server Setup with Claude Desktop
