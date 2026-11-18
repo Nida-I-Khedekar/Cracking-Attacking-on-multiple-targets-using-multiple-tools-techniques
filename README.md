@@ -499,6 +499,36 @@ The document opened successfully, confirming the result.
 
 ---
 
+# 🛡️ 9. Module 02 Evidence
+
+> Evidence screenshots are organized under:
+>
+> `module-2-networkwalks-tools/evidence/`
+
+### 🌐 Networkwalks Hash Calculator
+
+<img width="1365" alt="NetworkWalks Hash Calculator" src="https://github.com/user-attachments/assets/7c34d253-8e7a-46d5-ba94-d6e48012abc9" />
+
+---
+
+### #️⃣ Extracted PDF Hash
+
+<img width="1365" alt="Extracted PDF Hash" src="https://github.com/user-attachments/assets/4e72bf8b-1ce5-47fb-ba2a-24dec8fd86b6" />
+
+---
+
+### ⚔️ Password Cracker
+
+<img width="1364" alt="NetworkWalks Password Cracker - Recovery Result" src="https://github.com/user-attachments/assets/a6273bec-3823-4e4f-ad40-510983c781e5" />
+
+---
+
+‎### ⚔️ Password Cracker
+‎
+‎<img width="1364" height="716" alt="PASSCRACKED NETWORKWALKS" src="https://github.com/user-attachments/assets/a6273bec-3823-4e4f-ad40-510983c781e5" />
+‎
+‎---
+
 # 🛡️ 9. Module 03 – HexStrike-AI MCP Server Setup with Claude Desktop
 
 ## 9.1 Module Overview
