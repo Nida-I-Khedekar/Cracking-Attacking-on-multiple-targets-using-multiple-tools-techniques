@@ -1,4 +1,5 @@
 <div align="center">
+        
 # 🛡️ PASSWORD SECURITY & AI-ASSISTED PASSWORD CRACKING
 
 ### PASSWORD SECURITY • HASH ANALYSIS • JOHN THE RIPPER • HEXSTRIKE-AI • MCP
@@ -1083,6 +1084,7 @@ This demonstrated how AI can simplify interaction with security tools while stil
 
 ---
 <p align="center">
+        
 # 🛡️ 14. Skills Demonstrated
 
 
