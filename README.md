@@ -13,7 +13,7 @@
 
 **W3-PS-AI | CYBERSECURITY | NETWORKWALKS**
 
-### 👤 Nida Ibrahim Khedekar
+### 👩‍💻 Nida Ibrahim Khedekar
 
 **Cybersecurity Intern | Networkwalks Academy | Batch B084**
 
