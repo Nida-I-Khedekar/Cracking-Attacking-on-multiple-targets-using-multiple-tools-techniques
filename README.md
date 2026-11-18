@@ -371,38 +371,36 @@ The PDF opened successfully, confirming the password-recovery result.
 
 ### 🔎 PDF Hash Extraction
 
-<img width="1362" alt="PDF Hash Extraction 1" src="https://github.com/user-attachments/assets/ce9b58c9-d4f0-4ba0-a613-2dbd3a63c550" />
+<img width="1362" alt="PDF Hash Extraction 1" src="https://github.com/user-attachments/assets/ce9b58c9-d4f0-4ba0-a613-2dbd3a63c550" /><br>
 
-<img width="1363" alt="PDF Hash Extraction 2" src="https://github.com/user-attachments/assets/d55cce81-17da-4e78-bc38-79df96dc45d2" />
+<img width="1363" alt="PDF Hash Extraction 2" src="https://github.com/user-attachments/assets/d55cce81-17da-4e78-bc38-79df96dc45d2" /><br>
 
 <img width="1365" alt="PDF Hash Extraction 3" src="https://github.com/user-attachments/assets/4d341891-9a24-4284-894d-3c5059ff30cd" />
-
 
 
 
 ---
 
 ‎### 📝 Hash File
-‎
-‎<img width="1355" height="724" alt="MY PDFFILE HASH 1" src="https://github.com/user-attachments/assets/3dd0804b-6d3e-4083-9bdb-cf3a36daf491" />
-‎
-‎<img width="1361" height="716" alt="MY PDFFILE HASH 2" src="https://github.com/user-attachments/assets/cb322607-3e37-4a02-a275-aa443fe4cac7" />
-‎
-‎<img width="1365" height="749" alt="MY PDFFILE HASH 3" src="https://github.com/user-attachments/assets/3d09f4aa-6c91-4559-9f57-31e181a9baef" />
-‎
-‎
-‎---
-‎
-‎### ⚔️ Password Recovery
-‎
-‎<img width="1365" height="767" alt="JOHNNY PASSWORD CRACK 1 IS DONE" src="https://github.com/user-attachments/assets/1d390454-b0f6-48e9-8867-2c39c1629397" />
-‎
-‎<img width="1365" height="767" alt="JOHNNY PASSWORD CRACK 2 IS DONE" src="https://github.com/user-attachments/assets/7d1f82d4-9538-419d-9fd0-152d262d0697" />
-‎
-‎<img width="1365" height="762" alt="JOHNNY PASSWORD CRACK 3 IS DONE" src="https://github.com/user-attachments/assets/2341b111-d3c6-4810-af0f-ae9acf9710d9" />
-‎
-‎---
-‎
+
+<img width="1365" height="719" alt="Hash File Screenshot 1" src="https://github.com/user-attachments/assets/0dedcb2b-26bd-4012-8f8a-6824e5372abf" />
+
+<img width="1365" height="729" alt="Hash File Screenshot 2" src="https://github.com/user-attachments/assets/edd89c94-8b9f-4938-b65d-dd1958b9155b" />
+
+<img width="1365" height="724" alt="Hash File Screenshot 3" src="https://github.com/user-attachments/assets/4cdc5081-85d1-4758-89af-08ea8e3164a6" />
+
+---
+
+### ⚔️ Password Recovery
+
+<img width="1365" height="767" alt="Johnny Password Recovery Screenshot 1" src="https://github.com/user-attachments/assets/1d390454-b0f6-48e9-8867-2c39c1629397" />
+
+<img width="1365" height="767" alt="Johnny Password Recovery Screenshot 2" src="https://github.com/user-attachments/assets/7d1f82d4-9538-419d-9fd0-152d262d0697" />
+
+<img width="1365" height="762" alt="Johnny Password Recovery Screenshot 3" src="https://github.com/user-attachments/assets/2341b111-d3c6-4810-af0f-ae9acf9710d9" />
+
+---
+
 ‎# 🛡️ 8. Module 02 Password Cracking with Networkwalks Tools
 ‎
 ‎## 8.1  Module Overview
