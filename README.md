@@ -1083,10 +1083,9 @@ Result
 This demonstrated how AI can simplify interaction with security tools while still relying on the underlying technical capabilities of those tools.
 
 ---
-<p align="center">
         
 # 🛡️ 14. Skills Demonstrated
-
+<div align="center">
 
 ![PASSWORD SECURITY](https://img.shields.io/badge/PASSWORD%20SECURITY-C00000?style=for-the-badge)
 ![HASH ANALYSIS](https://img.shields.io/badge/HASH%20ANALYSIS-238F89?style=for-the-badge)
