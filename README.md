@@ -1096,7 +1096,7 @@ This demonstrated how AI can simplify interaction with security tools while stil
 ![AI AUTOMATION](https://img.shields.io/badge/AI%20AUTOMATION-22C55E?style=for-the-badge)
 ![KALI LINUX](https://img.shields.io/badge/KALI%20LINUX-404040?style=for-the-badge)
 
-</p>
+</div>
 
 ### Technical Skills
 
