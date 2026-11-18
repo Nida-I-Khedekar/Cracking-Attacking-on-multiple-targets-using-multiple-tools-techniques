@@ -369,14 +369,16 @@ The PDF opened successfully, confirming the password-recovery result.
 
 ---
 
-‎
-‎### 🔎 PDF Hash Extraction
+### 🔎 PDF Hash Extraction
 
-<img width="1362" height="720" alt="PDF Hash Extraction - Screenshot 1" src="https://github.com/user-attachments/assets/ce9b58c9-d4f0-4ba0-a613-2dbd3a63c550" />
+<img width="1362" alt="PDF Hash Extraction 1" src="https://github.com/user-attachments/assets/ce9b58c9-d4f0-4ba0-a613-2dbd3a63c550" />
 
-<img width="1363" height="723" alt="PDF Hash Extraction - Screenshot 2" src="https://github.com/user-attachments/assets/d55cce81-17da-4e78-bc38-79df96dc45d2" />
+<img width="1363" alt="PDF Hash Extraction 2" src="https://github.com/user-attachments/assets/d55cce81-17da-4e78-bc38-79df96dc45d2" />
 
-<img width="1365" height="723" alt="PDF Hash Extraction - Screenshot 3" src="https://github.com/user-attachments/assets/4d341891-9a24-4284-894d-3c5059ff30cd" />
+<img width="1365" alt="PDF Hash Extraction 3" src="https://github.com/user-attachments/assets/4d341891-9a24-4284-894d-3c5059ff30cd" />
+
+
+
 
 ---
 
