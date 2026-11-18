@@ -1492,7 +1492,7 @@ Evidence Collection & Documentation
 
 **Learn → Practice → Analyze → Automate → Document → Secure**
 
-*W3-PS-AI | Networkwalks Academy | Batch B084 | November 2026*
+*W3-PS-AI | Networkwalks Academy | Batch B084 | 18 November 2026*
 
 **Nida Ibrahim Khedekar**
 
