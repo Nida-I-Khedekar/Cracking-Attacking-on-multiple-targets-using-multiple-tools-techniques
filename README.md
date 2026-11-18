@@ -383,7 +383,7 @@ The PDF opened successfully, confirming the password-recovery result.
 
 ### 📝 Hash File
 
-<img width="1365" height="719" alt="Hash File Screenshot 1" src="https://github.com/user-attachments/assets/0dedcb2b-26bd-4012-8f8a-6824e5372abf" />
+<img width="1365" height="713" alt="Screenshot 2026-11-16 161702" src="https://github.com/user-attachments/assets/b3299b69-2f41-49ba-a043-637491e6f02b" />
 
 <img width="1365" height="729" alt="Hash File Screenshot 2" src="https://github.com/user-attachments/assets/edd89c94-8b9f-4938-b65d-dd1958b9155b" />
 
@@ -393,11 +393,11 @@ The PDF opened successfully, confirming the password-recovery result.
 
 ### ⚔️ Password Recovery
 
-<img width="1365" height="767" alt="Johnny Password Recovery Screenshot 1" src="https://github.com/user-attachments/assets/1d390454-b0f6-48e9-8867-2c39c1629397" />
+<img width="1365" height="721" alt="Screenshot 2026-11-16 162441" src="https://github.com/user-attachments/assets/5271968f-a621-454f-a43e-dace6782608d" />
 
-<img width="1365" height="767" alt="Johnny Password Recovery Screenshot 2" src="https://github.com/user-attachments/assets/7d1f82d4-9538-419d-9fd0-152d262d0697" />
+<img width="1365" height="724" alt="Screenshot 2026-11-16 162910" src="https://github.com/user-attachments/assets/70e6b41a-9fd7-4531-8413-d33ae42cea75" />
 
-<img width="1365" height="762" alt="Johnny Password Recovery Screenshot 3" src="https://github.com/user-attachments/assets/2341b111-d3c6-4810-af0f-ae9acf9710d9" />
+<img width="1365" height="727" alt="Screenshot 2026-11-16 163138" src="https://github.com/user-attachments/assets/7cfd7026-2cd5-4ae9-aca7-e704c87ed88a" />
 
 ---
 
