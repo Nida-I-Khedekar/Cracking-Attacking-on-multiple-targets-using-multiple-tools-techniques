@@ -938,7 +938,11 @@ EVIDENCE DOCUMENTATION
 
 ### #️⃣ PDF Hash Extraction
 
-Add the screenshot showing the hash extraction of `hash3.networkwalks_flag1.pdf` here.
+<img width="1365" height="714" alt="Screenshot 2026-11-17 234249" src="https://github.com/user-attachments/assets/2b7633a4-a557-4bbe-90b1-e2537c1bce6a" />
+
+<img width="1365" height="721" alt="Screenshot 2026-11-17 234935" src="https://github.com/user-attachments/assets/607ebe7d-3c0c-486a-8352-a7be06bde706" />
+
+<img width="1365" height="721" alt="Screenshot 2026-11-18 000104" src="https://github.com/user-attachments/assets/e9cee967-cedc-4607-ba2b-71eb1c074edd" />
 
 ### ⚔️ AI-Assisted Password Recovery
 
