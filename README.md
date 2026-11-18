@@ -515,15 +515,13 @@ The document opened successfully, confirming the result.
 
 ---
 
-### #️⃣ Extracted PDF Hash
-
-<img width="1365" alt="Extracted PDF Hash" src="https://github.com/user-attachments/assets/4e72bf8b-1ce5-47fb-ba2a-24dec8fd86b6" />
-
----
-
 ### ⚔️ Password Cracker
 
-<img width="1364" alt="NetworkWalks Password Cracker - Recovery Result" src="https://github.com/user-attachments/assets/a6273bec-3823-4e4f-ad40-510983c781e5" />
+<img width="1365" height="729" alt="Screenshot 2026-11-16 180734" src="https://github.com/user-attachments/assets/2b6d250d-abbb-4f33-8f27-a2e91ac80d2c" />
+
+<img width="1360" height="724" alt="Screenshot 2026-11-16 181053" src="https://github.com/user-attachments/assets/7d7fd847-af6b-4666-a99e-818371b460b7" />
+
+<img width="1365" height="728" alt="Screenshot 2026-11-16 180515" src="https://github.com/user-attachments/assets/153f467b-7d66-4fd5-91db-38791de7d5d7" />
 
 ‎---
 
