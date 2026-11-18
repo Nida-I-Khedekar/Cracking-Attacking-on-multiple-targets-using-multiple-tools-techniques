@@ -524,6 +524,7 @@ The document opened successfully, confirming the result.
 <img width="1365" height="728" alt="Screenshot 2026-11-16 180515" src="https://github.com/user-attachments/assets/153f467b-7d66-4fd5-91db-38791de7d5d7" />
 
 ‎---
+
 # 🛡️ 9. Module 03 – HexStrike-AI MCP Integration & AI-Assisted Password Cracking with Claude Desktop
 
 ## 9.1 Module Overview
@@ -925,7 +926,7 @@ EVIDENCE DOCUMENTATION
 
 ### 🤖 Claude Desktop Installation
 
-Add your Claude Desktop installation and successful launch screenshots here.
+<img width="1365" height="720" alt="Screenshot 2026-11-17 174931" src="https://github.com/user-attachments/assets/8692742e-9059-4c4d-9b50-bcc2aad68a85" />
 
 ### 🐉 HexStrike-AI Repository Setup
 
