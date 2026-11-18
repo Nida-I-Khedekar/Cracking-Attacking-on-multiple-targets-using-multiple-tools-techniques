@@ -356,19 +356,19 @@ The PDF opened successfully, confirming the password-recovery result.
 
 ---
 ‎‎---
-‎
-‎# 🛡️ 7. Module 01 Evidence
-‎
-‎> Evidence screenshots are organized under:
-‎>
-‎> `module-1-jtr/evidence/`
-‎
-‎###  JTR / Johnny Setup
-‎
-‎<img width="1365" height="720" alt="Screenshot 2026-11-16 161627" src="https://github.com/user-attachments/assets/f88b54c2-db0d-4f43-805b-d841ccc90098" />
-‎
-‎
-‎---
+
+# 🛡️ 7. Module 01 Evidence
+
+> Evidence screenshots are organized under:
+>
+> `module-1-jtr/evidence/`
+
+### JTR / Johnny Setup
+
+<img width="1365" height="720" alt="JTR Johnny Setup" src="https://github.com/user-attachments/assets/f88b54c2-db0d-4f43-805b-d841ccc90098" />
+
+---
+
 ‎
 ‎###  PDF Hash Extraction
 ‎
