@@ -229,7 +229,7 @@ flowchart TD
     style M fill:#22C55E,color:#fff
     style N fill:#404040,color:#fff
 ```
-
+---
 # 🛡️ 7. Module 01 – Password Cracking with John the Ripper & Johnny
 
 ## 7.1 Module Overview
