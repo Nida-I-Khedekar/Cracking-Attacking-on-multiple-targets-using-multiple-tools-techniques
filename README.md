@@ -29,7 +29,7 @@
 | ------------------------ | ------------------------------------------------------------ |
 | 👤 **Student / Analyst** | Nida Ibrahim Khedekar                                        |
 | 🎓 **Program / Batch**   | Networkwalks Cybersecurity Internship – B084                 |
-| 📅 **Assessment**        | November 2026                                                |
+| 📅 **Assessment Submitted**| 18 November 2026                                           |
 | 🧪 **Week**              | Week 03                                                      |
 | 🔐 **Primary Focus**     | Password Security & AI-Assisted Password Cracking            |
 | ⚔️ **Module 01**         | Password Cracking with John the Ripper & Johnny              |
