@@ -371,9 +371,9 @@ The PDF opened successfully, confirming the password-recovery result.
 
 ### 🔎 PDF Hash Extraction
 
-<img width="1362" alt="PDF Hash Extraction 1" src="https://github.com/user-attachments/assets/ce9b58c9-d4f0-4ba0-a613-2dbd3a63c550" /><br>
+<img width="1362" alt="PDF Hash Extraction 1" src="https://github.com/user-attachments/assets/ce9b58c9-d4f0-4ba0-a613-2dbd3a63c550" />
 
-<img width="1363" alt="PDF Hash Extraction 2" src="https://github.com/user-attachments/assets/d55cce81-17da-4e78-bc38-79df96dc45d2" /><br>
+<img width="1363" alt="PDF Hash Extraction 2" src="https://github.com/user-attachments/assets/d55cce81-17da-4e78-bc38-79df96dc45d2" />
 
 <img width="1365" alt="PDF Hash Extraction 3" src="https://github.com/user-attachments/assets/4d341891-9a24-4284-894d-3c5059ff30cd" />
 
@@ -393,9 +393,9 @@ The PDF opened successfully, confirming the password-recovery result.
 
 ### ⚔️ Password Recovery
 
-<img width="1365" height="721" alt="Screenshot 2026-11-16 162441" src="https://github.com/user-attachments/assets/5271968f-a621-454f-a43e-dace6782608d" /><br>
+<img width="1365" height="721" alt="Screenshot 2026-11-16 162441" src="https://github.com/user-attachments/assets/5271968f-a621-454f-a43e-dace6782608d" />
 
-<img width="1365" height="724" alt="Screenshot 2026-11-16 162910" src="https://github.com/user-attachments/assets/70e6b41a-9fd7-4531-8413-d33ae42cea75" /><br>
+<img width="1365" height="724" alt="Screenshot 2026-11-16 162910" src="https://github.com/user-attachments/assets/70e6b41a-9fd7-4531-8413-d33ae42cea75" />
 
 <img width="1365" height="727" alt="Screenshot 2026-11-16 163138" src="https://github.com/user-attachments/assets/7cfd7026-2cd5-4ae9-aca7-e704c87ed88a" />
 
@@ -507,9 +507,9 @@ The document opened successfully, confirming the result.
 
 ### 🌐 Networkwalks Hash Calculator
 
-<img width="1365" height="722" alt="Screenshot 2026-11-16 180933" src="https://github.com/user-attachments/assets/ae164b67-c58a-4d46-8bbb-af5a25bad853" /><br>
+<img width="1365" height="722" alt="Screenshot 2026-11-16 180933" src="https://github.com/user-attachments/assets/ae164b67-c58a-4d46-8bbb-af5a25bad853" />
 
-<img width="1365" height="720" alt="Screenshot 2026-11-16 181026" src="https://github.com/user-attachments/assets/25c12843-793a-41c6-94ef-7778d10fdd67" /><br>
+<img width="1365" height="720" alt="Screenshot 2026-11-16 181026" src="https://github.com/user-attachments/assets/25c12843-793a-41c6-94ef-7778d10fdd67" />
 
 <img width="1365" height="723" alt="Screenshot 2026-11-16 180909" src="https://github.com/user-attachments/assets/94b6400a-101a-4776-907a-96ced0fb3842" />
 
@@ -524,65 +524,98 @@ The document opened successfully, confirming the result.
 <img width="1365" height="728" alt="Screenshot 2026-11-16 180515" src="https://github.com/user-attachments/assets/153f467b-7d66-4fd5-91db-38791de7d5d7" />
 
 ‎---
-
-# 🛡️ 9. Module 03 – HexStrike-AI MCP Server Setup with Claude Desktop
+# 🛡️ 9. Module 03 – HexStrike-AI MCP Integration & AI-Assisted Password Cracking with Claude Desktop
 
 ## 9.1 Module Overview
 
-The third module introduced an AI-assisted cybersecurity environment using **HexStrike-AI MCP Server and Claude Desktop on Kali Linux**.
+The third practical module extended the previous password-security exercises by introducing an **AI-assisted cybersecurity environment using HexStrike-AI MCP Server, Claude Desktop, and John the Ripper on Kali Linux**.
 
-The objective was to establish communication between Claude Desktop and the HexStrike-AI MCP Server.
+The objective was to configure HexStrike-AI, establish communication with Claude Desktop through the Model Context Protocol (MCP), and use the integrated environment to perform an authorized PDF password-recovery exercise.
 
-This module introduced the practical use of the **Model Context Protocol (MCP)** to connect an AI application with external tools.
+The practical was divided into two connected stages:
 
-HexStrike-AI provides an integration layer that allows supported cybersecurity tools to be accessed through an AI-assisted workflow.
+**Stage 01 – Environment Setup and MCP Integration**
 
-Unlike the previous modules, this exercise focused on environment preparation, dependency management, server execution, and MCP configuration.
+* Install Claude Desktop on Kali Linux.
+* Clone and configure the HexStrike-AI repository.
+* Create a Python virtual environment.
+* Install the required dependencies.
+* Start the HexStrike-AI server.
+* Configure the MCP connection in Claude Desktop.
+
+**Stage 02 – AI-Assisted Password Recovery**
+
+* Verify John the Ripper availability through HexStrike-AI.
+* Extract the hash from the supplied protected PDF.
+* Use natural-language prompts through Claude Desktop.
+* Perform dictionary-based password testing using the RockYou wordlist.
+* Verify the recovered password by opening the protected PDF.
+
+This exercise demonstrated how AI applications can interact with external cybersecurity tools through MCP integrations.
+
+Unlike the previous modules, this practical introduced an additional layer of AI-assisted tool interaction, combining traditional password-auditing capabilities with an AI-powered interface.
+
+---
 
 ## 9.2 Module Environment
 
-| **Component**       | **Details**                |
-| ------------------- | -------------------------- |
-| Operating System    | Kali Linux                 |
-| AI Application      | Claude Desktop             |
-| MCP Server          | HexStrike-AI               |
-| Repository          | `0x4m4/hexstrike-ai`       |
-| Installation Method | GitHub                     |
-| Runtime             | Python 3                   |
-| Dependency Manager  | pip                        |
-| Environment         | Python Virtual Environment |
-| Server Script       | `hexstrike_server.py`      |
-| MCP Script          | `hexstrike_mcp.py`         |
-| Server Port         | `8888`                     |
-| Integration         | MCP                        |
-| Status              | Successfully Configured    |
+| **Component**            | **Details**                    |
+| ------------------------ | ------------------------------ |
+| Operating System         | Kali Linux                     |
+| AI Application           | Claude Desktop                 |
+| MCP Framework            | Model Context Protocol (MCP)   |
+| MCP Server               | HexStrike-AI                   |
+| Repository               | `0x4m4/hexstrike-ai`           |
+| Password Tool            | John the Ripper                |
+| Programming Language     | Python 3                       |
+| Dependency Manager       | pip                            |
+| Environment              | Python Virtual Environment     |
+| Wordlist                 | `rockyou.txt`                  |
+| Target File              | `hash3.networkwalks_flag1.pdf` |
+| Target Location          | `/home/kali/Desktop/`          |
+| Hash Format              | PDF Hash                       |
+| Server Address           | `http://localhost:8888`        |
+| Server Port              | `8888`                         |
+| MCP Script               | `hexstrike_mcp.py`             |
+| Server Script            | `hexstrike_server.py`          |
+| Password-Recovery Method | Dictionary-Based Testing       |
+| Interaction Method       | Natural-Language Prompts       |
+| Assessment Status        | Completed                      |
 
-## 9.3 Module 03 Architecture
+## 9.3 Module Architecture
+
+The following architecture represents the complete workflow, from installing the required applications to recovering and verifying the protected PDF password.
 
 ```mermaid
 flowchart TD
 
-    A["🐉 Kali Linux"] --> B["📥 Install Claude Desktop"]
+    A["🐉 Kali Linux Environment"]
 
+    A --> B["📥 Install Claude Desktop"]
     A --> C["📥 Clone HexStrike-AI Repository"]
 
     C --> D["🐍 Create Python Virtual Environment"]
-
     D --> E["📦 Install Dependencies"]
-
     E --> F["🚀 Start HexStrike Server"]
 
     B --> G["⚙️ Configure MCP Settings"]
-
     F --> H["🌐 Local Server :8888"]
 
-    G --> I["🔗 MCP Connection"]
-
+    G --> I["🔗 MCP Integration"]
     H --> I
 
     I --> J["🤖 Claude Desktop"]
 
-    J --> K["⚔️ Access Supported Security Tools"]
+    J --> K["🔍 Verify John the Ripper"]
+    K --> L["📄 Analyze Protected PDF"]
+    L --> M["#️⃣ Extract PDF Hash"]
+
+    M --> N["📚 RockYou Wordlist"]
+    N --> O["⚔️ John the Ripper"]
+    O --> P["🔓 Password Recovery"]
+
+    P --> Q["📄 PDF Verification"]
+    Q --> R["📸 Evidence Documentation"]
 
     style A fill:#0A66C2,color:#fff
     style B fill:#6F42C1,color:#fff
@@ -595,21 +628,30 @@ flowchart TD
     style I fill:#F59E0B,color:#fff
     style J fill:#22C55E,color:#fff
     style K fill:#238F89,color:#fff
+    style L fill:#C00000,color:#fff
+    style M fill:#0A66C2,color:#fff
+    style N fill:#F59E0B,color:#fff
+    style O fill:#6F42C1,color:#fff
+    style P fill:#22C55E,color:#fff
+    style Q fill:#238F89,color:#fff
+    style R fill:#404040,color:#fff
 ```
+
+---
 
 ## 9.4 Practical Procedure
 
-### 🔹 9.4.1 Download Claude Desktop
+### 🔹 9.4.1 Install Claude Desktop on Kali Linux
 
 Claude Desktop was installed on Kali Linux using the Debian package repository provided by the Claude Desktop Debian project.
 
-The installation involved adding the repository's GPG key, configuring the package repository, updating package information, and installing Claude Desktop.
-
-Repository:
+GitHub repository:
 
 https://github.com/aaddrick/claude-desktop-debian
 
-Installation commands:
+The installation involved adding the repository GPG key, configuring the package repository, updating package information, and installing Claude Desktop.
+
+**Installation commands:**
 
 ```bash
 # Add the GPG key
@@ -627,11 +669,11 @@ sudo apt install claude-desktop
 
 ### 🔹 9.4.2 Launch Claude Desktop
 
-After installation, Claude Desktop was opened.
+After installation, Claude Desktop was opened on Kali Linux.
 
-The sign-in process was completed to access the application.
+The sign-in process was completed to access the application and prepare it for MCP integration.
 
-### 🔹 9.4.3 Download HexStrike-AI
+### 🔹 9.4.3 Clone the HexStrike-AI Repository
 
 The HexStrike-AI repository was obtained from GitHub.
 
@@ -639,7 +681,7 @@ Repository:
 
 https://github.com/0x4m4/hexstrike-ai
 
-The repository was cloned using Git.
+The repository was cloned to the Kali Linux environment.
 
 ```bash
 git clone https://github.com/0x4m4/hexstrike-ai.git
@@ -655,29 +697,29 @@ A dedicated Python virtual environment was created to isolate the dependencies r
 python3 -m venv hexstrike-env
 ```
 
-The virtual environment was activated:
+The environment was activated:
 
 ```bash
 source hexstrike-env/bin/activate
 ```
 
-Using a virtual environment helps prevent conflicts with Kali Linux's system-managed Python packages.
+Using a virtual environment helps maintain dependency isolation and reduces conflicts with system-managed Python packages.
 
-### 🔹 9.4.5 Install Python Dependencies
+### 🔹 9.4.5 Install Required Dependencies
 
-After activating the virtual environment, the required dependencies were installed from the repository's requirements file.
+After activating the virtual environment, the required Python dependencies were installed from the repository's requirements file.
 
 ```bash
-python -m pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
-This installed the Python packages required by the HexStrike-AI project.
+This prepared the Python environment for the HexStrike-AI server and MCP integration.
 
-### 🔹 9.4.6 Start HexStrike-AI MCP Server
+### 🔹 9.4.6 Start the HexStrike-AI Server
 
-After dependency installation, the repository directory was accessed again.
+After dependency installation, the repository directory was accessed and the virtual environment activated.
 
-The virtual environment was activated and the HexStrike server was started.
+The HexStrike-AI server was launched.
 
 ```bash
 cd ~/hexstrike-ai
@@ -687,17 +729,19 @@ source hexstrike-env/bin/activate
 python3 hexstrike_server.py
 ```
 
-The server was configured to run locally on:
+The server was configured to run locally at:
 
 ```text
 http://localhost:8888
 ```
 
-### 🔹 9.4.7 Configure MCP in Claude Desktop
+This local server provided the communication endpoint required by the MCP integration.
 
-The MCP configuration was added to Claude Desktop.
+### 🔹 9.4.7 Configure MCP Integration in Claude Desktop
 
-Configuration:
+The MCP server configuration was added to Claude Desktop.
+
+**Configuration:**
 
 ```json
 {
@@ -714,143 +758,45 @@ Configuration:
 }
 ```
 
-The configuration established the connection between Claude Desktop and the HexStrike-AI MCP integration.
+The configuration specified:
 
-### 🔹 9.4.8 Verify the Integration
+* The Python interpreter inside the virtual environment.
+* The HexStrike-AI MCP script.
+* The local HexStrike server endpoint.
+* The communication parameters required for integration.
 
-After configuring MCP, Claude Desktop was used to access the HexStrike-AI integration.
+This connected Claude Desktop with the HexStrike-AI MCP environment.
 
-The setup established the required communication between the AI application and the local HexStrike server.
+### 🔹 9.4.8 Verify John the Ripper Availability
 
-> **Important:** The MCP integration and the HexStrike server are separate components. Both must be configured and running correctly for the complete workflow to operate.
+After configuring the integration, Claude Desktop was used to interact with the HexStrike-AI environment.
 
----
-
-# 🛡️ 10. Module 04 – AI-Assisted Password Cracking with JTR + HexStrike-AI
-
-## 10.1 Module Overview
-
-The fourth module was an extension of the previous HexStrike-AI setup exercise.
-
-The objective was to use **John the Ripper through HexStrike-AI MCP with Claude Desktop** to perform an authorized PDF password-recovery exercise.
-
-This practical introduced an AI-assisted approach to security-tool interaction.
-
-Instead of manually executing every JTR command in the terminal, natural-language prompts were provided through Claude Desktop.
-
-Claude Desktop communicated with the HexStrike-AI MCP integration, which provided access to supported security tools.
-
-The RockYou wordlist was used as the password-candidate dictionary for the exercise.
-
-This module combined:
-
-* AI-assisted tool interaction.
-* MCP-based integration.
-* John the Ripper.
-* PDF hash extraction.
-* Dictionary-based password testing.
-* Kali Linux.
-* RockYou wordlist.
-
-## 10.2 Module Environment
-
-| **Component**            | **Details**                    |
-| ------------------------ | ------------------------------ |
-| Operating System         | Kali Linux                     |
-| AI Application           | Claude Desktop                 |
-| MCP Integration          | HexStrike-AI                   |
-| Password Tool            | John the Ripper                |
-| Wordlist                 | `rockyou.txt`                  |
-| Target File              | `hash3.networkwalks_flag1.pdf` |
-| Hash Format              | PDF Hash                       |
-| Input Location           | `/home/kali/Desktop/`          |
-| Password-Recovery Method | Dictionary-Based Testing       |
-| Interaction              | Natural-Language Prompts       |
-| Status                   | Completed                      |
-
-## 10.3 Module 04 Architecture
-
-```mermaid
-flowchart TD
-
-    A["📄 hash3.networkwalks_flag1.pdf"]
-
-    B["🤖 Claude Desktop"]
-
-    C["🔗 HexStrike-AI MCP"]
-
-    D["⚔️ John the Ripper"]
-
-    E["🔎 PDF Hash Extraction"]
-
-    F["📚 RockYou Wordlist"]
-
-    G["⏳ Password Candidate Testing"]
-
-    H["🔓 Password Recovered"]
-
-    I["📄 PDF Verification"]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-    G --> H
-    H --> I
-
-    style A fill:#C00000,color:#fff
-    style B fill:#0A66C2,color:#fff
-    style C fill:#6F42C1,color:#fff
-    style D fill:#238F89,color:#fff
-    style E fill:#F59E0B,color:#fff
-    style F fill:#0A66C2,color:#fff
-    style G fill:#C00000,color:#fff
-    style H fill:#22C55E,color:#fff
-    style I fill:#238F89,color:#fff
-```
-
-## 10.4 Practical Procedure
-
-### 🔹 10.4.1 Obtain the Target PDF
-
-The PDF supplied with the Networkwalks AI-assisted JTR practical was downloaded.
-
-Target filename:
-
-```text
-hash3.networkwalks_flag1.pdf
-```
-
-The file was copied to the Kali Linux desktop.
-
-Target location:
-
-```text
-/home/kali/Desktop/hash3.networkwalks_flag1.pdf
-```
-
-### 🔹 10.4.2 Open Claude Desktop
-
-Claude Desktop was launched on Kali Linux.
-
-The application was used as the AI interface for interacting with the configured HexStrike-AI MCP server.
-
-### 🔹 10.4.3 Verify John the Ripper Availability
-
-The first natural-language prompt was provided to Claude Desktop:
+The first natural-language prompt was:
 
 ```text
 Check if John the Ripper is installed in this
 HexStrike MCP and show me its version.
 ```
 
-The purpose was to verify whether John the Ripper was available through the integrated environment.
+The objective was to check John the Ripper availability through the integrated environment.
 
-### 🔹 10.4.4 Calculate the PDF Hash
+### 🔹 9.4.9 Obtain the Protected PDF and Extract Its Hash
 
-The next prompt requested PDF hash extraction:
+The target PDF supplied with the Networkwalks practical was copied to the Kali Linux desktop.
+
+**Target filename:**
+
+```text
+hash3.networkwalks_flag1.pdf
+```
+
+**Target location:**
+
+```text
+/home/kali/Desktop/hash3.networkwalks_flag1.pdf
+```
+
+The following prompt was provided through Claude Desktop:
 
 ```text
 Please calculate the hash value of this PDF file:
@@ -858,11 +804,13 @@ Please calculate the hash value of this PDF file:
 /home/kali/Desktop/hash3.networkwalks_flag1.pdf
 ```
 
-The PDF was processed to obtain its corresponding password hash.
+The purpose was to obtain the PDF password hash required for the subsequent password-auditing exercise.
 
-### 🔹 10.4.5 Initiate AI-Assisted Password Recovery
+### 🔹 9.4.10 Initiate AI-Assisted Password Recovery
 
-After obtaining the PDF hash, the following prompt was provided:
+After obtaining the PDF hash, another natural-language prompt was submitted through Claude Desktop.
+
+**Prompt used:**
 
 ```text
 Please use JTR tool in this HexStrike MCP server
@@ -871,145 +819,145 @@ to crack the password of this PDF file.
 Use the rockyou.txt wordlist dictionary.
 ```
 
-Claude Desktop used the HexStrike-AI MCP integration to interact with the supported John the Ripper workflow.
+Claude Desktop interacted with the HexStrike-AI MCP integration to initiate the John the Ripper password-recovery workflow.
 
-### 🔹 10.4.6 Use the RockYou Wordlist
+This demonstrated how natural-language instructions can be used to interact with supported cybersecurity tools through an MCP-enabled environment.
 
-The RockYou wordlist was used as the dictionary containing candidate passwords.
+### 🔹 9.4.11 Use the RockYou Wordlist
 
-RockYou is a commonly used wordlist in cybersecurity education and authorized password-security testing.
+The RockYou wordlist was selected as the dictionary for the password-recovery exercise.
 
-Its commonly referenced Kali Linux location is:
+RockYou is a commonly referenced password wordlist used in cybersecurity education and authorized password-security assessments.
+
+The commonly referenced Kali Linux location is:
 
 ```text
 /usr/share/wordlists/rockyou.txt
 ```
 
-Depending on the Kali installation, the compressed wordlist may need to be extracted before use.
+Depending on the Kali Linux installation, the wordlist may initially be compressed.
 
-### 🔹 10.4.7 Password Recovery
+The dictionary was used as the candidate-password source during the laboratory exercise.
 
-John the Ripper performed dictionary-based password testing using the extracted PDF hash and the selected wordlist.
+### 🔹 9.4.12 Password Recovery and Verification
 
-The password-recovery process continued until a matching password was identified.
+John the Ripper performed dictionary-based password testing against the extracted PDF hash.
+
+The recovery process continued until a matching password was identified.
 
 The recovered password was displayed through the AI-assisted workflow.
 
-### 🔹 10.4.8 Verify the Recovered Password
+The recovered password was then entered into the protected PDF.
 
-The recovered password was used to access the protected PDF.
-
-Successful access confirmed the result of the AI-assisted password-recovery exercise.
-
-## 10.5 AI Prompts Used
-
-| **Stage** | **Prompt Purpose**                                   |
-| --------- | ---------------------------------------------------- |
-| 01        | Check John the Ripper installation and version       |
-| 02        | Calculate the hash of the supplied PDF               |
-| 03        | Use JTR through HexStrike-AI to recover the password |
-| 04        | Specify RockYou as the wordlist                      |
+Successful access to the document confirmed the result of the password-recovery exercise.
 
 ---
 
-# 🛡️ 11. Practical Evidence
+## 9.5 AI Prompts Used
 
-Evidence screenshots for the four modules are organized separately to maintain clear documentation.
+Natural-language prompts were used through Claude Desktop to interact with the HexStrike-AI MCP integration.
 
-Recommended repository structure:
+| **Stage** | **Prompt / Activity**                                                                | **Purpose**                               |
+| --------- | ------------------------------------------------------------------------------------ | ----------------------------------------- |
+| 01        | Check if John the Ripper is installed in this HexStrike MCP and show me its version. | Verify JTR availability                   |
+| 02        | Calculate the hash value of the supplied PDF file.                                   | PDF hash extraction                       |
+| 03        | Use JTR through HexStrike MCP to recover the PDF password.                           | Initiate password recovery                |
+| 04        | Use the `rockyou.txt` wordlist dictionary.                                           | Specify the candidate-password dictionary |
+
+The exercise demonstrated how an AI-assisted interface can simplify interaction with traditional cybersecurity tools.
+
+---
+
+## 9.6 Technical Workflow Summary
+
+The complete practical followed this sequence:
 
 ```text
-WEEK-03-PASSWORD-SECURITY/
-│
-├── README.md
-│
-├── module-1-jtr-johnny/
-│   └── evidence/
-│
-├── module-2-networkwalks-tools/
-│   └── evidence/
-│
-├── module-3-hexstrike-mcp-setup/
-│   └── evidence/
-│
-└── module-4-ai-assisted-jtr/
-    └── evidence/
+KALI LINUX ENVIRONMENT
+          |
+          v
+CLAUDE DESKTOP INSTALLATION
+          |
+          v
+HEXSTRIKE-AI REPOSITORY
+          |
+          v
+PYTHON VIRTUAL ENVIRONMENT
+          |
+          v
+DEPENDENCY INSTALLATION
+          |
+          v
+HEXSTRIKE SERVER STARTUP
+          |
+          v
+MCP CONFIGURATION
+          |
+          v
+CLAUDE DESKTOP INTEGRATION
+          |
+          v
+JOHN THE RIPPER AVAILABILITY CHECK
+          |
+          v
+PDF HASH EXTRACTION
+          |
+          v
+ROCKYOU WORDLIST SELECTION
+          |
+          v
+AI-ASSISTED PASSWORD RECOVERY
+          |
+          v
+PDF PASSWORD VERIFICATION
+          |
+          v
+EVIDENCE DOCUMENTATION
 ```
 
-## 📸 Module 01 – John the Ripper & Johnny
-
-Evidence categories:
-
-* John the Ripper download.
-* Johnny installation.
-* Johnny configuration.
-* JTR executable selection.
-* PDF hash extraction.
-* Hash-file creation.
-* Hash-file loading.
-* Password-recovery process.
-* Successful PDF verification.
-
-**Evidence location:**
-
-`module-1-jtr-johnny/evidence/`
-
 ---
 
-## 📸 Module 02 – Networkwalks Tools
+## 9.7 Module 03 Evidence
 
-Evidence categories:
+> Evidence screenshots are organized under:
+>
+> `module-3-hexstrike-ai/evidence/`
 
-* Networkwalks Hash Calculator.
-* Protected PDF upload.
-* Extracted PDF hash.
-* Password Cracker.
-* Password-recovery result.
-* PDF verification.
+### 🤖 Claude Desktop Installation
 
-**Evidence location:**
+Add your Claude Desktop installation and successful launch screenshots here.
 
-`module-2-networkwalks-tools/evidence/`
+### 🐉 HexStrike-AI Repository Setup
 
----
+Add screenshots showing the GitHub repository, cloning process, and project directory here.
 
-## 📸 Module 03 – HexStrike-AI MCP Setup
+### 🐍 Python Virtual Environment and Dependencies
 
-Evidence categories:
+Add screenshots showing virtual environment creation, activation, and dependency installation here.
 
-* Claude Desktop installation.
-* Claude Desktop launch.
-* HexStrike-AI GitHub repository.
-* Repository cloning.
-* Python virtual environment.
-* Dependency installation.
-* HexStrike server execution.
-* MCP configuration.
-* Claude Desktop integration.
+### 🚀 HexStrike-AI Server Execution
 
-**Evidence location:**
+Add screenshots demonstrating the server startup and local server configuration here.
 
-`module-3-hexstrike-mcp-setup/evidence/`
+### ⚙️ Claude Desktop MCP Configuration
 
----
+Add screenshots showing the MCP configuration and HexStrike-AI integration here.
 
-## 📸 Module 04 – AI-Assisted JTR
+### 🔍 John the Ripper Availability Verification
 
-Evidence categories:
+Add the screenshot showing the JTR installation and version check here.
 
-* Target PDF on Kali Linux desktop.
-* Claude Desktop interface.
-* John the Ripper version verification.
-* PDF hash extraction prompt.
-* Extracted PDF hash.
-* AI-assisted JTR execution.
-* RockYou wordlist usage.
-* Password-recovery result.
-* Successful PDF verification.
+### #️⃣ PDF Hash Extraction
 
-**Evidence location:**
+Add the screenshot showing the hash extraction of `hash3.networkwalks_flag1.pdf` here.
 
-`module-4-ai-assisted-jtr/evidence/`
+### ⚔️ AI-Assisted Password Recovery
+
+Add the screenshot showing the Claude Desktop prompt, HexStrike-AI interaction, and JTR password-recovery result here.
+
+### 🔓 Successful PDF Password Verification
+
+Add the screenshot demonstrating successful access to the protected PDF here.
 
 ---
 
