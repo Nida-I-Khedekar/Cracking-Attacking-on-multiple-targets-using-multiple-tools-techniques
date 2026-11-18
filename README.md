@@ -928,19 +928,7 @@ EVIDENCE DOCUMENTATION
 
 ### 🐉 HexStrike-AI Repository Setup
 
-Add screenshots showing the GitHub repository, cloning process, and project directory here.
-
-### 🐍 Python Virtual Environment and Dependencies
-
-Add screenshots showing virtual environment creation, activation, and dependency installation here.
-
-### 🚀 HexStrike-AI Server Execution
-
-Add screenshots demonstrating the server startup and local server configuration here.
-
-### ⚙️ Claude Desktop MCP Configuration
-
-Add screenshots showing the MCP configuration and HexStrike-AI integration here.
+<img width="1364" height="707" alt="Screenshot 2026-11-17 223454" src="https://github.com/user-attachments/assets/e2d11f15-d3d9-4461-ac29-e7292f8a7320" />
 
 ### 🔍 John the Ripper Availability Verification
 
