@@ -946,7 +946,11 @@ EVIDENCE DOCUMENTATION
 
 ### ⚔️ AI-Assisted Password Recovery
 
-Add the screenshot showing the Claude Desktop prompt, HexStrike-AI interaction, and JTR password-recovery result here.
+<img width="1365" height="719" alt="Screenshot 2026-11-17 234804" src="https://github.com/user-attachments/assets/67f4e864-7189-437a-af05-f54d8d57a569" />
+
+<img width="1365" height="724" alt="Screenshot 2026-11-18 000006" src="https://github.com/user-attachments/assets/81bec1c2-394d-41cb-9ed6-017fc36a2299" />
+
+<img width="1365" height="727" alt="Screenshot 2026-11-18 000400" src="https://github.com/user-attachments/assets/bb60dd4a-a529-43ca-b29b-0b59a764ccbe" />
 
 ### 🔓 Successful PDF Password Verification
 
