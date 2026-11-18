@@ -954,7 +954,11 @@ EVIDENCE DOCUMENTATION
 
 ### 🔓 Successful PDF Password Verification
 
-Add the screenshot demonstrating successful access to the protected PDF here.
+<img width="1365" height="718" alt="Screenshot 2026-11-18 133556" src="https://github.com/user-attachments/assets/c1c08edb-e09b-47d8-be62-a180b7a98f36" />
+
+<img width="1365" height="724" alt="Screenshot 2026-11-18 133457" src="https://github.com/user-attachments/assets/6c75390e-721e-42d3-a00c-378a42ec138f" />
+
+<img width="1365" height="721" alt="Screenshot 2026-11-18 000540" src="https://github.com/user-attachments/assets/2e8ced4f-f4ad-4d01-adb9-f87e542983ee" />
 
 ---
 
