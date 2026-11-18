@@ -393,18 +393,13 @@ The PDF opened successfully, confirming the password-recovery result.
 
 ### ⚔️ Password Recovery
 
-<img width="1365" height="721" alt="Screenshot 2026-11-16 162441" src="https://github.com/user-attachments/assets/5271968f-a621-454f-a43e-dace6782608d" />
+<img width="1365" height="721" alt="Screenshot 2026-11-16 162441" src="https://github.com/user-attachments/assets/5271968f-a621-454f-a43e-dace6782608d" /><br>
 
-<img width="1365" height="724" alt="Screenshot 2026-11-16 162910" src="https://github.com/user-attachments/assets/70e6b41a-9fd7-4531-8413-d33ae42cea75" />
+<img width="1365" height="724" alt="Screenshot 2026-11-16 162910" src="https://github.com/user-attachments/assets/70e6b41a-9fd7-4531-8413-d33ae42cea75" /><br>
 
 <img width="1365" height="727" alt="Screenshot 2026-11-16 163138" src="https://github.com/user-attachments/assets/7cfd7026-2cd5-4ae9-aca7-e704c87ed88a" />
 
 ---
-
-‎# 🛡️ 8. Module 02 Password Cracking with Networkwalks Tools
-‎
-‎## 8.1  Module Overview
-
 
 # 🛡️ 8. Module 02 – Password Cracking with Networkwalks Tools
 
