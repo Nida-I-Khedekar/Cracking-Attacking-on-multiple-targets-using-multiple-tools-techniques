@@ -381,7 +381,7 @@ The PDF opened successfully, confirming the password-recovery result.
 
 ---
 
-‎### 📝 Hash File
+### 📝 Hash File
 
 <img width="1365" height="719" alt="Hash File Screenshot 1" src="https://github.com/user-attachments/assets/0dedcb2b-26bd-4012-8f8a-6824e5372abf" />
 
