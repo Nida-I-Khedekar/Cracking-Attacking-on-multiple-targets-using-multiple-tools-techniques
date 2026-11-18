@@ -932,7 +932,9 @@ EVIDENCE DOCUMENTATION
 
 ### 🔍 John the Ripper Availability Verification
 
-Add the screenshot showing the JTR installation and version check here.
+<img width="1365" height="726" alt="Screenshot 2026-11-17 233546" src="https://github.com/user-attachments/assets/f9ee40cf-b677-4afa-83aa-a692fe2b6c2f" />
+
+<img width="1365" height="715" alt="Screenshot 2026-11-17 233711" src="https://github.com/user-attachments/assets/1cb69eff-36b3-4796-9555-401ec9df8ba6" />
 
 ### #️⃣ PDF Hash Extraction
 
